@@ -4,6 +4,10 @@ html, body {
     font-family: "Google Sans Display";
 }
 
+#warpper {
+    overflow: hidden;
+}
+
 #top {
     overflow: hidden;
     border-bottom: 2px solid #D3D3D3;
@@ -52,4 +56,26 @@ html, body {
 #menu a {
     text-decoration: none;
     color: #3a3b3c;
+}
+
+#middle {
+    margin-top:46px;
+    padding-top: 96px;
+    overflow: hidden;
+}
+
+#middle #left {
+    float: left;
+    margin-left: 160px;
+}
+
+#middle #left p {
+    margin: 0;
+    font-size: 40px;
+    width: 260px;
+}
+
+#middle #right {
+    float: right;
+    margin-right: 160px;
 }
