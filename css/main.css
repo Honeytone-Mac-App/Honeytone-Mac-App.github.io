@@ -13,7 +13,7 @@ html, body {
 #logo {
     float: left;
     font-size: 24px;
-    margin-left: 86px;
+    margin-left: 98px;
     height: 38px;
     line-height: 38px;
 }
@@ -28,7 +28,7 @@ html, body {
     margin: 0;
     padding: 0;
     float: right;
-    margin-right: 86px;
+    margin-right: 98px;
     box-sizing:border-box;
 }
 
@@ -37,15 +37,15 @@ html, body {
     margin-left: 16px;
     height: 38px;
     line-height: 38px;
-    color: #581845;
     box-sizing:border-box;
 }
 
 #menu li:hover {
     border-bottom: 2px solid black;
+    color: #581845;
 }
 
 #menu a {
     text-decoration: none;
-    color: #581845;
+    color: #3a3b3c;
 }
