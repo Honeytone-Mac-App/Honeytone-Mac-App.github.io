@@ -58,7 +58,15 @@ html, body {
     color: #3a3b3c;
 }
 
+#inner-warpper {
+    width: 1020px;
+    margin: 0 auto;
+    padding: 0;
+}
+
 #middle {
+    margin: 0;
+    padding: 0;
     margin-top:46px;
     padding-top: 96px;
     overflow: hidden;
