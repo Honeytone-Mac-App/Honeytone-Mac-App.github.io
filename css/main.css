@@ -99,3 +99,32 @@ html, body {
     float: right;
     margin-right: 160px;
 }
+
+#features {
+    overflow: hidden;
+    width: 1020px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+#features h2 {
+    margin-left: 160px;
+    font-size: 32px;
+}
+
+#features-list {
+    overflow: hidden;
+    width: 720px;
+    margin: 0 auto;
+}
+
+#features-list div {
+    float: left;
+    width: 180px;
+    height: 150px;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin-right: 50px;
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
