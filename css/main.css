@@ -12,6 +12,7 @@ html, body {
     overflow: hidden;
     border-bottom: 2px solid #D3D3D3;
     box-sizing:border-box;
+    background-color: white;
 
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
