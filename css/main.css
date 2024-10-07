@@ -129,3 +129,9 @@ html, body {
     margin-top: 32px;
     margin-bottom: 40px;
 }
+
+#demo {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+}
