@@ -95,6 +95,7 @@ html, body {
 }
 
 #middle #right {
+    margin-top: 22px;
     float: right;
     margin-right: 160px;
 }
