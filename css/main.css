@@ -129,7 +129,12 @@ html, body {
     margin-right: 50px;
     margin-top: 32px;
     margin-bottom: 40px;
+    color: #626262;
 }
+
+#features-list div h3 {
+    color: black;
+} 
 
 #demo {
     margin-top: 200px;
