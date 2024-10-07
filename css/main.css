@@ -137,9 +137,11 @@ html, body {
 } 
 
 #demo {
-    margin-top: 200px;
-    margin-bottom: 100px;
     text-align: center;
+}
+
+#demo h2 {
+    padding-top: 60px;
 }
 
 #buy {
