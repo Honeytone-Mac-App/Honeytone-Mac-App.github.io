@@ -44,7 +44,7 @@ html, body {
     box-sizing:border-box;
 }
 
-#menu li:hover {
+.active-item {
     border-bottom: 2px solid black;
     color: #581845;
 }
